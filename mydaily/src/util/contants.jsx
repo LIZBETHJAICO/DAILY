@@ -1,0 +1,1 @@
+export const DAILY_STORAGE = 'dayli-it';

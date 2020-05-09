@@ -1,0 +1,20 @@
+.form-send-daily {
+    background-color: #fff;
+    border: 5px solid #106d74ce;
+    padding: 20px;
+    width: 600px;
+    &__title {
+        margin: 0 !important;
+    }
+    &__form {
+        .MuiFormControl-root {
+            width: 100%
+        }
+        &-name {
+            width: 50% !important;
+        }
+        &__textarea {
+            width: 100% !important;
+        }
+    }
+}

@@ -1,0 +1,9 @@
+.send-daily {
+    &__open-form {
+        position: fixed !important;
+        right: 30px;
+        bottom: 30px;
+        background-color: #ee00e2 !important;
+        z-index: 1;
+    }
+}
